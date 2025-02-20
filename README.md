@@ -28,7 +28,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/username/ConstraSol.git
+git clone https://github.com/mahider78672/ConstraSol
 Open the project in Android Studio.
 
 Set up Firebase in your Android project:
