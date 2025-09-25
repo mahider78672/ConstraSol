@@ -3,7 +3,7 @@ Overview
 ConstraSol is an Android application developed to connect laborers with homeowners seeking construction services. It aims to reduce wait times, improve job matching efficiency, and enhance user experience with a streamlined UI and robust backend.
 
 Key Features:
-Laborer-Client Matching System: Efficient matching of 500+ laborers with 200+ customers based on project requirements.
+Laborer-Client Matching System: Efficient matching of laborers with 200+ customers based on project requirements.
 Real-time Sync with Firebase: Firebase integration allows for smooth, real-time synchronization of user data, improving app responsiveness.
 Efficient Job Matching: Advanced algorithms to match the best-fit laborers with customers, improving hiring efficiency by 20%.
 Optimized Performance: Data storage and retrieval optimizations that enhance app speed by 30%, providing a better user experience.
