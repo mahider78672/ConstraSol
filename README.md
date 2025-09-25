@@ -13,10 +13,10 @@ SQL: For efficient data storage and management.
 Firebase: Integrated for real-time user authentication and database management.
 REST APIs: Used for communication between the mobile app and backend services.
 Key Achievements:
-Reduced labor wait time by 40%.
-Improved job matching efficiency by 30%.
-Enhanced user authentication speed, optimizing 5,000+ authentications and reducing data load time by 25%.
-Increased app speed by 30%, boosting daily active users (DAU) by 20% and improving user retention.
+Reduced labor wait time.
+Improved job matching efficiency by.
+Enhanced user authentication speed, optimizing authentications and reducing data load time.
+Increased app speed, boosting daily active users (DAU) by and improving user retention.
 Setup & Installation:
 Prerequisites:
 Android Studio
