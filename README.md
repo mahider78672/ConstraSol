@@ -50,6 +50,3 @@ Laborers can browse available jobs and accept tasks.
 The system matches customers and laborers based on project needs, reducing wait times and improving job match efficiency.
 Contributing:
 Contributions are welcome! Feel free to fork this repository, open issues, or submit pull requests.
-
-License:
-This project is licensed under the MIT License.
