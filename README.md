@@ -1,5 +1,5 @@
 ConstraSol – Solution for Home Construction
-
+ 
 Overview
 ConstraSol is an Android application developed to connect laborers with homeowners seeking construction services. It aims to reduce wait times, improve job matching efficiency, and enhance user experience with a streamlined UI and robust backend.
 
