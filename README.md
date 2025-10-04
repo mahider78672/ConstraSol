@@ -8,7 +8,7 @@ Laborer-Client Matching System: Efficient matching of laborers with customers ba
 Real-time Sync with Firebase: Firebase integration allows for smooth, real-time synchronization of user data, improving app responsiveness.
 Efficient Job Matching: Advanced algorithms to match the best-fit laborers with customers, improving hiring efficiency.
 Optimized Performance: Data storage and retrieval optimizations that enhance app speed, providing a better user experience.
-Tech Stack:
+Tech Stack: 
 Android Studio (Java): Used for developing the mobile app.
 SQL: For efficient data storage and management.
 Firebase: Integrated for real-time user authentication and database management.
